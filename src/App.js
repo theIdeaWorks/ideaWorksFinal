@@ -31,9 +31,9 @@ export default function CatchAllRoute() {
   // a 404 page from your code.
   // The following hypothetical 
   // <FourOhFour> is placeholder.
-  if (notFound && !isPreviewingInBuilder) {
-    return <FourOhFour/>
-  }
+  //if (notFound && !isPreviewingInBuilder) {
+    //return <FourOhFour/>
+  //}
 
   // return the page when found
   return (
